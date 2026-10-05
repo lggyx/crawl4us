@@ -1,7 +1,7 @@
 # crawl4us 架构
 
 > 状态：草案 v0.1，待评审
-> 关联文档：[`crawl4ai-analysis.md`](crawl4ai-analysis.md)（参照对象分析）、[`DESIGN.md`](DESIGN.md)（早期设计，部分结论已被本文档取代）
+> 关联文档：[`crawl4ai-analysis.md`](crawl4ai-analysis.md)（参照对象分析）、[`DESIGN.md`](DESIGN.md)（设计决策：定位、非目标、技术选型）
 
 ---
 
